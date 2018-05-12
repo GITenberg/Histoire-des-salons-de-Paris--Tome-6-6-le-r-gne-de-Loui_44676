@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Laure_Junot,_Duchess_of_Abrant%C3%A8s
     - http://fr.wikipedia.org/wiki/Laure_Junot_d%27Abrant%C3%A8s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44676#Histoire-des-salons-de-Paris--Tome-6-6-le-r-gne-de-Loui
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Chroniques
